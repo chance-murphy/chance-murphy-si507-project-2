@@ -33,7 +33,7 @@ def rating():
 
     return string
 
-@app.route('/movie/info')
+@app.route('/movie/info/')
 def info():
     #Randomizing the first 50 results in the data
     movies = []
