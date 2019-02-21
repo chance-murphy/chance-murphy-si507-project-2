@@ -29,7 +29,7 @@ host url are as follows.
 <br>
 <h3>Movie Ratings List Page:</h3> http://localhost:5000/movies/ratings/<name>
 <br>
-<h3>Movie Info Page:</h3> http://localhost:5000/movie/info(pound/yuan/dollar)/<amount>
+<h3>Movie Info Page:</h3> http://localhost:5000/movie/info
 <br>
 <h2>Overall Grade</h2>
 1000/1000
